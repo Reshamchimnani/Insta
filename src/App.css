@@ -1,0 +1,30 @@
+ .form-container{
+       max-width: 800px;
+       border: 2px solid black;
+       margin: 20px auto;
+       padding: 10px;
+       background-color: white;
+       justify-content: center;
+ }
+
+.card{
+      width: 500px;
+      height: 500px;
+      justify-items: center;
+      text-align: end;
+      margin: auto;
+      
+}
+
+
+.class-test{
+      text-align: start;
+}
+
+
+
+
+
+
+ 
+ 

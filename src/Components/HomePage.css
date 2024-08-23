@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #fff;
+  border-bottom: 1px solid #dbdbdb;
+  width: 100vw;
+  
+  top: 0;
+  left: 0;
+
+  
+}
+
+.navbar__logo img {
+  height: 30px;
+}
+
+.navbar__search input {
+  width: 200px;
+  padding: 5px;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  background-color: #fafafa;
+}
+
+.navbar__icons i {
+  font-size: 24px;
+  margin-left: 15px;
+  cursor: pointer;
+  
+}
+
+.navbar__icons i:hover {
+  color: #8e8e8e;
+}
+
+.card{
+  margin:20px auto;
+}
