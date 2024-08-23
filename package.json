@@ -1,7 +1,7 @@
 {
   "name": "instagram",
   "version": "0.1.0",
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://github.com/Reshamchimnani/Insta",
 "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
