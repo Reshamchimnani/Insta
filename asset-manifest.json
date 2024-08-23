@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.88404322.css",
-    "main.js": "/your-repo-name/static/js/main.5b1dfe25.js",
-    "static/js/453.93f24176.chunk.js": "/your-repo-name/static/js/453.93f24176.chunk.js",
-    "static/media/fa-solid-900.ttf": "/your-repo-name/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/your-repo-name/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/your-repo-name/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/your-repo-name/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/your-repo-name/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/your-repo-name/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/your-repo-name/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/your-repo-name/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/your-repo-name/index.html",
-    "main.88404322.css.map": "/your-repo-name/static/css/main.88404322.css.map",
-    "main.5b1dfe25.js.map": "/your-repo-name/static/js/main.5b1dfe25.js.map",
-    "453.93f24176.chunk.js.map": "/your-repo-name/static/js/453.93f24176.chunk.js.map"
+    "main.css": "/Reshamchimnani/Insta/static/css/main.954a60be.css",
+    "main.js": "/Reshamchimnani/Insta/static/js/main.f81f5e1f.js",
+    "static/js/453.93f24176.chunk.js": "/Reshamchimnani/Insta/static/js/453.93f24176.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Reshamchimnani/Insta/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Reshamchimnani/Insta/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Reshamchimnani/Insta/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Reshamchimnani/Insta/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Reshamchimnani/Insta/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Reshamchimnani/Insta/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Reshamchimnani/Insta/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Reshamchimnani/Insta/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Reshamchimnani/Insta/index.html",
+    "main.954a60be.css.map": "/Reshamchimnani/Insta/static/css/main.954a60be.css.map",
+    "main.f81f5e1f.js.map": "/Reshamchimnani/Insta/static/js/main.f81f5e1f.js.map",
+    "453.93f24176.chunk.js.map": "/Reshamchimnani/Insta/static/js/453.93f24176.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88404322.css",
-    "static/js/main.5b1dfe25.js"
+    "static/css/main.954a60be.css",
+    "static/js/main.f81f5e1f.js"
   ]
 }
