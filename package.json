@@ -1,7 +1,7 @@
 {
   "name": "instagram",
   "version": "0.1.0",
-  "homepage": "https://github.com/Reshamchimnani/Insta",
+  "homepage": "https://Reshamchimnani/Insta",
 "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
