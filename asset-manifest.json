@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Reshamchimnani/Insta/static/css/main.954a60be.css",
-    "main.js": "/Reshamchimnani/Insta/static/js/main.f81f5e1f.js",
-    "static/js/453.93f24176.chunk.js": "/Reshamchimnani/Insta/static/js/453.93f24176.chunk.js",
-    "static/media/fa-solid-900.ttf": "/Reshamchimnani/Insta/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/Reshamchimnani/Insta/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/Reshamchimnani/Insta/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/Reshamchimnani/Insta/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/Reshamchimnani/Insta/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/Reshamchimnani/Insta/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Reshamchimnani/Insta/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Reshamchimnani/Insta/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/Reshamchimnani/Insta/index.html",
-    "main.954a60be.css.map": "/Reshamchimnani/Insta/static/css/main.954a60be.css.map",
-    "main.f81f5e1f.js.map": "/Reshamchimnani/Insta/static/js/main.f81f5e1f.js.map",
-    "453.93f24176.chunk.js.map": "/Reshamchimnani/Insta/static/js/453.93f24176.chunk.js.map"
+    "main.css": "/Insta/static/css/main.d5bf81fd.css",
+    "main.js": "/Insta/static/js/main.023386be.js",
+    "static/js/453.93f24176.chunk.js": "/Insta/static/js/453.93f24176.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Insta/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Insta/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Insta/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Insta/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Insta/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Insta/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Insta/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Insta/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Insta/index.html",
+    "main.d5bf81fd.css.map": "/Insta/static/css/main.d5bf81fd.css.map",
+    "main.023386be.js.map": "/Insta/static/js/main.023386be.js.map",
+    "453.93f24176.chunk.js.map": "/Insta/static/js/453.93f24176.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.954a60be.css",
-    "static/js/main.f81f5e1f.js"
+    "static/css/main.d5bf81fd.css",
+    "static/js/main.023386be.js"
   ]
 }
